@@ -46,11 +46,7 @@ MEVShieldDetector/
 
 ## Setup Instructions
 ```bash
-git clone https://github.com/ironblocks/venn-custom-detection
-cd venn-custom-detection
-# Create detector file
-mkdir src && touch src/MEVShieldDetector.ts
-# Add your implementation
+git clone 
 npm install
 npm run agent:run
 npm test
