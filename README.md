@@ -42,6 +42,7 @@ MEVShieldDetector/
 ├── README.md
 └── submit_build.md
 ```
+![Alt text](https://github.com/GarbhitSh/MEVShieldDetector/blob/main/dokh.png)
 
 ## Setup Instructions
 ```bash
